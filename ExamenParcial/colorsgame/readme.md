@@ -179,4 +179,5 @@ El proyecto sigue la arquitectura recomendada usando fragments y Navigation Comp
 
 # AUTOR
 
-🧑‍💻 _Josué Carlos Alberto Ramos Suyoc, 11/05/2025_
+🧑‍💻 _Josué Carlos Alberto Ramos Suyoc
+11/05/2025_
