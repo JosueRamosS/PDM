@@ -1,15 +1,15 @@
-<!-- 
+<?xml version="1.0" encoding="utf-8"?>
+<!--
     Este archivo strings.xml centraliza todos los textos utilizados en la aplicación, abarcando desde los mensajes
     de bienvenida hasta las instrucciones y resultados del juego, lo que facilita la localización y el mantenimiento del código.
-    
-    En los strings "time_remaining", "score", "result_score" y "result_high_score", se utiliza el marcador %1$d para insertar dinámicamente valores enteros. 
+
+    En los strings "time_remaining", "score", "result_score" y "result_high_score", se utiliza el marcador %1$d para insertar dinámicamente valores enteros.
     Esto permite formatear el texto en tiempo de ejecución, reemplazando %1$d por el primer argumento entero pasado (por ejemplo, el tiempo restante o la puntuación).
-    
+
     Josué Carlos Alberto Ramos Suyoc, 11/05/2025
 
 -->
 
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Juego de Colores</string>
 

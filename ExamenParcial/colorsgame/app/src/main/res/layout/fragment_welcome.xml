@@ -1,9 +1,9 @@
-<!-- 
+<?xml version="1.0" encoding="utf-8"?>
+<!--
     - Layout que muestra la pantalla de bienvenida con título, descripción, selección de dificultad y botón para iniciar el juego.
     Josué Carlos Alberto Ramos Suyoc, 11/05/2025
 -->
 
-<?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

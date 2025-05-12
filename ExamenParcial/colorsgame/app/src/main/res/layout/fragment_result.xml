@@ -1,9 +1,9 @@
-<!-- 
+<?xml version="1.0" encoding="utf-8"?>
+<!--
     - Layout que muestra los resultados del juego, incluyendo puntaje, récord, mensaje motivacional y botones para jugar de nuevo o ir al menú principal.
     Josué Carlos Alberto Ramos Suyoc, 11/05/2025
 -->
 
-<?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -1,11 +1,11 @@
-<!-- 
+<?xml version="1.0" encoding="utf-8"?>
+<!--
     Aquí defino los colores :D
-    
+
     Josué Carlos Alberto Ramos Suyoc, 11/05/2025
 
 -->
 
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
