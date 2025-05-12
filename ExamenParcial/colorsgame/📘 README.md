@@ -35,7 +35,7 @@ Este repositorio contiene una aplicación Android desarrollada en Kotlin que imp
 1. **Abrir en Android Studio:**
 
    - Inicia Android Studio.
-   - Selecciona **"Open an Existing Project"** y navega hasta el directorio clonado.
+   - 🔴 Muy importante -> Selecciona **"Open an Existing Project"** y **ES IMPORTANTE QUE ABRAS LA CARPETA 'colorsgame' DESDE ANDROID STUDIO para evitar problemas al compilar**.
    - Android Studio sincronizará el proyecto y descargará las dependencias necesarias.
    - Puedes utilizar Clean Project y Rebuild a modo de previsión.
 
