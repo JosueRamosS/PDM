@@ -1,3 +1,9 @@
+/*
+    - Configura el NavController para la navegación entre fragments.
+    - Ajusta la ActionBar para mostrar el título del fragmento actual.
+    Josué Carlos Alberto Ramos Suyoc, 11/05/2025
+*/
+
 package com.example.colorsgame
 
 import androidx.appcompat.app.AppCompatActivity

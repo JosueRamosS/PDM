@@ -1,3 +1,10 @@
+<!-- 
+     Requisitos cumplidos:
+     • Configuración de la actividad principal (MainActivity) orientada a portrait para iniciar el juego.
+     • Preparación para la navegación entre fragments y manejo de la lógica del juego.
+     Josué Carlos Alberto Ramos Suyoc, 11/05/2025
+-->
+
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">

@@ -1,3 +1,8 @@
+/*
+    - Fragmento de resultados que muestra el puntaje obtenido, el récord y un mensaje personalizado según la puntuación.
+    - Navegación correcta para volver a jugar o regresar al menú principal.
+    Josué Carlos Alberto Ramos Suyoc, 11/05/2025
+*/
 package com.example.colorsgame.fragments
 
 import android.os.Bundle

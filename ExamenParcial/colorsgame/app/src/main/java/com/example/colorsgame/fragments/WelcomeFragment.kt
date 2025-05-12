@@ -1,3 +1,8 @@
+/*
+    - Fragmento de bienvenida que muestra el título del juego, una breve explicación y permite seleccionar la dificultad.
+    - Navegación correcta al iniciar el juego.
+    Josué Carlos Alberto Ramos Suyoc, 11/05/2025
+*/
 package com.example.colorsgame.fragments
 
 import android.os.Bundle

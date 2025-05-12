@@ -1,3 +1,9 @@
+<!-- 
+    - Layout que contiene la interfaz del juego con botones para seleccionar colores.
+    - Utiliza ConstraintLayout y LinearLayout para organizar la vista, mostrando el temporizador, la puntuación y la visualización del color.
+    Josué Carlos Alberto Ramos Suyoc, 11/05/2025
+-->
+
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"

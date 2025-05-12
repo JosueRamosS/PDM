@@ -1,3 +1,13 @@
+<!-- 
+    Este archivo nav_graph.xml define la estructura de navegación de la aplicación.
+    Se encarga de gestionar las transiciones entre los fragments: WelcomeFragment, GameFragment y ResultFragment.
+    Cada fragmento está vinculado mediante acciones que incluyen animaciones (fade in/fade out) para una transición fluida.
+    Además, se utilizan argumentos (como "difficulty" y "score") para pasar datos de un fragmento a otro, permitiendo personalizar la experiencia del usuario.
+    La existencia de este gráfico de navegación centraliza y simplifica el manejo de la navegación en la aplicación, eliminando la necesidad de gestionar manualmente las transacciones de fragments.
+    
+    Josué Carlos Alberto Ramos Suyoc, 11/05/2025
+-->
+
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

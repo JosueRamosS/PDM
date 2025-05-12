@@ -1,3 +1,19 @@
+/*
+    Configuración del proyecto. Algunos puntos relevantes:
+
+    - Plugins:
+      • androidx.navigation.safeargs.kotlin: Facilita el paso seguro de argumentos entre fragments en la navegación.
+
+    - Bloque android:
+      • buildFeatures: Habilita viewBinding para simplificar el manejo de las vistas.
+      • namespace, compileSdk, minSdk y targetSdk: Configuran el paquete base y las versiones de API para compilar y ejecutar la app.
+
+    - Dependencies:
+      • Navigation Component para gestionar la navegación entre fragments.
+
+    Josué Carlos Alberto Ramos Suyoc, 11/05/2025
+*/
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")

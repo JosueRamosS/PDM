@@ -1,3 +1,9 @@
+/*
+    - Fragmento del juego que inicializa y maneja la lógica central, actualiza la puntuación y controla el temporizador.
+    - Implementa la generación de colores aleatorios y la verificación de respuestas según la dificultad.
+    Josué Carlos Alberto Ramos Suyoc, 11/05/2025
+*/
+
 package com.example.colorsgame.fragments
 
 import android.os.Bundle
