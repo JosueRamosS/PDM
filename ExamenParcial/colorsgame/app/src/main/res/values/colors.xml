@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores del juego -->
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="purple">#800080</color>
+    <color name="orange">#FFA500</color>
+
+    <!-- Colores de la UI -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="welcomeBackground">#F0F0F0</color>
+    <color name="gameBackground">#E0E0E0</color>
+    <color name="resultBackground">#F0F0F0</color>
+</resources>
